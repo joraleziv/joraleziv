@@ -1,8 +1,8 @@
 ## BIENVENIDO A MI GITHUB!!
 
-Hola! me llamo Jorge Alonso y soy **licenciado en Economía** y **Business Intelligence**.
+Hola! me llamo Jorge Alonso y soy **Licenciado en Economía**.
 
-Tengo un **Máster en Asesoría Fiscal y Contable** y **Máster en Inteligencia de Negocio** , aparte de otros cursos sobre ciencia de datos.
+Tengo un **Máster en Inteligencia de Negocio** y otro  **Máster en Asesoría Fiscal y Contable** , aparte de otros cursos sobre ciencia de datos.
 
 Tras trabajar durante un largo período de años para un grupo empresarial de la Industria Alimentaria en diferentes roles de responsabilidad dentro de su administración <a href="http://www.jsp.es/" target="_blank" rel="noreferrer" style="color:red !important; font-weight:bold;"> JSP </a>
 , decidí cambiar el chip y **reciclarme**
