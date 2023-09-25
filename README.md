@@ -8,7 +8,7 @@ Hola! me llamo Jorge Alonso y soy **Licenciado en Economía**.
 
 Tengo un **Máster en Inteligencia de Negocio** y otro  **Máster en Asesoría Fiscal y Contable** , aparte de otros cursos sobre ciencia de datos.
 
-Tras trabajar durante un largo período de años para un grupo empresarial de la Industria Alimentaria en diferentes roles de responsabilidad dentro de su administración <a href="http://www.jsp.es/" target="_blank" rel="noreferrer" style="color:red !important; font-weight:bold;"> JSP </a>
+Tras trabajar durante un largo período de años para un grupo empresarial de la Industria Alimentaria <a href="http://www.jsp.es/" target="_blank" rel="noreferrer" style="color:red !important; font-weight:bold;"> JSP </a> en diferentes roles de responsabilidad dentro de su administración 
 , decidí cambiar el chip y **reciclarme**
 
 
