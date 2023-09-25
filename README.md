@@ -1,5 +1,6 @@
 
-![_72cd9678-22f0-4176-a0f1-70fa9e140d02](https://github.com/joraleziv/joraleziv/assets/106243119/5796eb6d-9a76-4e92-962c-3138d417b8b5)
+
+<img src="https://github.com/joraleziv/joraleziv/assets/106243119/5796eb6d-9a76-4e92-962c-3138d417b8b5" width="500">
 
 
 ## BIENVENIDO A MI GITHUB!!
