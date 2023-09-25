@@ -1,9 +1,8 @@
 
 
-<img src="https://github.com/joraleziv/joraleziv/assets/106243119/5796eb6d-9a76-4e92-962c-3138d417b8b5" width="500">
+<img src="https://github.com/joraleziv/joraleziv/assets/106243119/5796eb6d-9a76-4e92-962c-3138d417b8b5" width="1200" height="500">
 
-
-## BIENVENIDO A MI GITHUB!!
+  ## BIENVENIDO A MI GITHUB!!
 
 Hola! me llamo Jorge Alonso y soy **Licenciado en Economía**.
 
